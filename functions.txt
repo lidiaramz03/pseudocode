@@ -1,0 +1,33 @@
+Functionality;
+capture scores
+avarage
+print
+  
+
+function avarage(number of grades)
+    sum=0
+    for(n=0;n<number of grades;n++){
+        INSERT value;
+        sum =   sum+value   //95+102+85
+    } 
+    avarage = sum / number of grades    //282/3
+    print avarage
+ end   
+
+ print("print")
+ INSERT Y; //3
+ Average(y);
+
+function (NAME OF STUDENT) "Edward Flowers"
+    avarage = sum/ number of grades //94
+    print NAME OF STUDENT
+end
+function (POSSIBLE GRADE)
+    total grades=100 
+    for (T=100;n<possible grade) {
+    average = total grade / value   //94/100
+    print POSSIBLE GRADE
+end
+
+
+
